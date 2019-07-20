@@ -1,6 +1,10 @@
 ## Todo List
 Beautiful and simple Todo List on React.js
 
+# Demo:
+
+https://xanon50rus.github.io/react-todo-list/
+
 In the project directory, you can run:
 
 ### `npm start`
